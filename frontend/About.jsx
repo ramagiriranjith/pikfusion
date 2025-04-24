@@ -1,13 +1,3 @@
-// export const About = () => (
-//     <section className="py-5 container classic-font">
-//       <h2>About Us</h2>
-//       <p>
-//         At PikFusion, creativity meets strategy. We are a passionate team of designers, developers, and brand experts committed
-//         to delivering innovative digital experiences. Our mission is to empower businesses by fusing design excellence with
-//         powerful technology.
-//       </p>
-//     </section>
-//   );
 import React from 'react';
 import '../../assets/style.css';
 import system from '../../assets/system_2.jpeg';
